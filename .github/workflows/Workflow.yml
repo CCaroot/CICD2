@@ -1,5 +1,5 @@
 name: CI Pipeline
-
+// 시작
 on:
   push:
     branches: ["main"]
